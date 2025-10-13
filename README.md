@@ -56,10 +56,10 @@
 ###
 
 <div align="left">
-  <a href="discord.gg/kBb3XXyTXM" target="_blank">
+  <a style="text-decoration: none" href="discord.gg/kBb3XXyTXM" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://www.youtube.com/@Shelter_LimesGames" target="_blank">
+  <a style="text-decoration: none" href="https://www.youtube.com/@Shelter_LimesGames" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://www.facebook.com/share/19ZK4JykT1/?mibextid=wwXIfr" target="_blank">
