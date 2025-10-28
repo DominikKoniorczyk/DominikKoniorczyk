@@ -61,6 +61,6 @@
   <a style="text-decoration: none;" href="https://www.facebook.com/share/19ZK4JykT1/?mibextid=wwXIfr" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"/></a>
   <a style="text-decoration: none;" href="https://www.twitch.tv/shelter_ceo_limesgames" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"/></a>
   <a style="text-decoration: none;" href="https://www.patreon.com/c/ShelterLimesGames" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"/></a>
-</div>
+</div> 
 
 ###
