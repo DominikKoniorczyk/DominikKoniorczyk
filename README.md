@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I found my way into IT through my passion for computer games. My first steps in IT were smaller projects, sometimes a mod for a computer game, sometimes a small website. <br>In 2020, I started developing my own computer game in Unreal Engine with a good friend and quickly learned new things about visual scripting (Unreal Engine's blueprint system), C++ and some basic knowledge of C#. <br>During this time, I developed and programmed several smaller devices, including three 3D printers, one cockpit for flight simulators and various smaller controllers for Arduino and Raspberry Pi.<br><br>I try to learn something new every day and improve myself, even if only a little. My intention is to keep getting better and better and to excel in my future job.<br><br>Translated with DeepL.com (free version)</p>
+<p align="left">I found my way into IT through my passion for computer games. My first steps in IT were smaller projects, sometimes a mod for a computer game, sometimes a small website. <br>In 2020, I started developing my own computer game in Unreal Engine with a good friend and quickly learned new things about visual scripting (Unreal Engine's blueprint system), C++ and some basic knowledge of C#. <br>During this time, I developed and programmed several smaller devices, including three 3D printers, one cockpit for flight simulators and various smaller controllers for Arduino and Raspberry Pi.<br><br>I try to learn something new every day and improve myself, even if only a little. My intention is to keep getting better and better and to excel in my future job.</p>
 
 ###
 
